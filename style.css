@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(10, 2, 29);
+}
+
+h1 {
+    color: beige;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.Para1 {
+    color: white;
+}
+
+.image1 {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.image2 {
+    max-width: 500px;
+    width: 30%;
+}
+
+.layout {
+    display: flex;
+}
+
+.Para2 {
+    width: 70%;
+    margin: auto;
+}
